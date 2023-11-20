@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Data Science SHPEWorks: Part 1</h3>
+  <h3 align="center">Data Science SHPEWorks</h3>
 
   <p align="center">
     An introductory workshop to Data Science using Python and Pandas
